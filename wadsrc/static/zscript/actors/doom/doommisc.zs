@@ -97,6 +97,8 @@ class BulletPuff : Actor
 	}
 }
 
+class BulletPuffMDK : BulletPuff { Default { } }
+	
 // Container for an unused state -------------------------------------------
 
 /* Doom defined the states S_STALAG, S_DEADTORSO, and S_DEADBOTTOM but never
